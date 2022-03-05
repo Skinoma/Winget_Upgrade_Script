@@ -1,0 +1,1 @@
+powerShell ./Winget_Upgrade_Script.ps1
